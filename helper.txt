@@ -1,0 +1,3 @@
+Download dawn.OVA virtual machine for import to virtualbox
+Disover the IP address of target machine > sudo netdiscover
+
