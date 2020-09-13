@@ -1,3 +1,14 @@
 Download dawn.OVA virtual machine for import to virtualbox
 Disover the IP address of target machine > sudo netdiscover
 
+run netdiscover if interrogating VM type host internal to team27server
+
+nmap -A -Pn <external ip of gcp computer engine>
+...Host is up (0.044s latency).
+Not shown: 998 filtered ports
+PORT     STATE  SERVICE       VERSION
+22/tcp   open   ssh           OpenSSH 7.9p1 Debian 10+deb10u2 (protocol 2.0)
+
+SSH it is!
+
+
